@@ -3,11 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Andrea Magnorsky
 ---
 
 Bytesize Architecture Sessions are a workshop format that help teams understand the systems they work on. Each session focuses on a small slice of a system. After some sessions your team will become more homogeneous in the understanding of their systems, grow a consistent vocabulary and ultimately build tools to design the future together.
 
 A  session lasts between 45 and 90 minutes, and has four well defined parts: Session Goal, Alone Together, Consensus and Summary. You can model your systems using different tools. I suggest starting with [C4 Diagrams](https://c4model.com/).
+
+<figure>
+    <img src="/images/working-together.jpg"
+         alt="Trabajando juntos">
+    <figcaption>Image by upklyak on Freepik.</figcaption>
+</figure>
 
 ## Would you rather watch something?
 

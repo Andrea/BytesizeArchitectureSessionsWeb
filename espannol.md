@@ -7,9 +7,16 @@ author: Emilio Carrión
 Muchas gracias a [Emilio Carrión](https://www.linkedin.com/in/emcarrio/) por traducir este contenido y hacerlo accesible a más gente. 
 ---
 
+
 Las *Bytesize Architecture Sessions* son un formato de taller que ayuda a los equipos a comprender los sistemas en los que trabajan. Cada sesión se centra en una pequeña porción de un sistema. Tras algunas sesiones, tu equipo será más homogéneo en la comprensión de sus sistemas, desarrollará un vocabulario consistente y, en última instancia, construirá herramientas para diseñar el futuro juntos.
 
 Una sesión dura entre 45 y 90 minutos, y consta de cuatro partes bien definidas: Objetivo de la sesión, *Alone Together*, Consenso y Resumen. Puedes modelar tus sistemas utilizando distintas herramientas. Sugiero empezar con Diagramas C4.
+
+<figure>
+    <img src="/images/working-together.jpg"
+         alt="Trabajando juntos">
+    <figcaption>Image by upklyak on Freepik.</figcaption>
+</figure>
 
 ## ¿Preferirías ver un video?
 
