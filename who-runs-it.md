@@ -1,6 +1,7 @@
 ---
 title: Who organises it?
 layout: page
+author: Andrea Magnorsky
 ---
 
 Anyone can propose a Bytesize Session. The sessions should feel like they belong to the team.  

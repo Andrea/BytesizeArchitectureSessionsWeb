@@ -11,13 +11,13 @@ A  session lasts between 45 and 90 minutes, and has four well defined parts: Ses
 
 ## Would you rather watch something?
 
-A great intro talk  with some context about why and how it was created. 
-<!-- height="360"  -->
+A great intro talk  with some context about why and how Bytesize Architecture Sessions were created. 
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/842232215?h=129cccdf22" width="450" height="300" frameborder="0"    allowfullscreen></iframe> 
 
 A more in-depth talk with great questions and answers after the inital presentation. 
 <iframe width="450" height="300"  src="https://www.youtube.com/embed/uJ0f8fLU2Vw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<!-- height="315" -->
+
 
 # Important pages
 
@@ -25,4 +25,5 @@ A more in-depth talk with great questions and answers after the inital presentat
 
 ### [Running your first few sessions]({% link running-your-first-sessions.md %})
 ### [Who organises Bytesize Architecture Sessions?]({% link who-runs-it.md %})
+### [Frequently Asked Questions]({% link faq.md %})
 

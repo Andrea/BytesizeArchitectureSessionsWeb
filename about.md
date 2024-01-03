@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+author: Andrea Magnorsky
 ---
 
 <div id="about">
