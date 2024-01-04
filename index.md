@@ -10,11 +10,7 @@ Bytesize Architecture Sessions are a workshop format that help teams understand 
 
 A  session lasts between 45 and 90 minutes, and has four well defined parts: Session Goal, Alone Together, Consensus and Summary. You can model your systems using different tools. I suggest starting with [C4 Diagrams](https://c4model.com/).
 
-<figure>
-    <img src="/images/working-together.jpg"
-         alt="Trabajando juntos">
-    <figcaption>Image by upklyak on Freepik.</figcaption>
-</figure>
+
 
 ## Would you rather watch something?
 
@@ -26,10 +22,9 @@ A more in-depth talk with great questions and answers after the inital presentat
 <iframe width="450" height="300"  src="https://www.youtube.com/embed/uJ0f8fLU2Vw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 
-# Important pages
+# And now read these
 
 ### [Why should you use Bytesize Architecture Sessions?]({% link why-bytesize.md %})
-
 ### [Running your first few sessions]({% link running-your-first-sessions.md %})
 ### [Who organises Bytesize Architecture Sessions?]({% link who-runs-it.md %})
 ### [Frequently Asked Questions]({% link faq.md %})
