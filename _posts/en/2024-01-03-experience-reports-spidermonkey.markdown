@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Talk about SpiderMonkey and how they use Bytesize Sessions by Daniel Minor
-date:   2024-01-03 03:53:25 -0600
+date:   2024-01-03 10:53:25
 lang: en
 author: Andrea Magnorsky
 categories: usage-report mozilla

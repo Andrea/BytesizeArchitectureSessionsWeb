@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Caso de estudio en una empresa de television britanica
-date:   2024-01-03 03:53:25 -0600
+date:   2024-01-03 10:53:25 
 lang: es
 author: Andrea Magnorsky
 categories: case-study spanish 
