@@ -8,9 +8,6 @@ categories: usage-report Payfit
 ---
 
 This is an article by Jean De Barochez, where he describes how his team uses **Bytesize Architecture Sessions** at [PayFit](https://payfit.com/).
-Jean is a software engineer with affinities to software architecture, domain driven design and gardening. 🧑‍🌾
-Learn more about him on [mastodon](https://mastodon.social/@jdebarochez).
-
 
 ---
 
@@ -77,3 +74,9 @@ We may sometimes work on small isolated tasks (maintenance, investigation, etc).
 We found in Bytesize Architecture Sessions a powerful way to keep people up to date on particular topic. Given a complex task at hand, which changes a lot the system and its technical behavior, using a session to then kick start a mob programming session helped in sharing knowledge, and having everyone contributing to the problem at hand.
 
 
+--- 
+
+Jean is a software engineer with affinities to software architecture, domain driven design and gardening. 🧑‍🌾
+Learn more about him on [mastodon](https://mastodon.social/@jdebarochez).
+
+If you have used Bytesize Architecture Sessions and feel like sharing your experience reach out to Andrea via [mastodon](https://types.pl/@roundcrisis/) or [LinkedIn](https://www.linkedin.com/in/magnorsky/) so we can make it happen.
