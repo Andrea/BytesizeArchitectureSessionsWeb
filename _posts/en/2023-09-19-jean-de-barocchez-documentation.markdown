@@ -1,13 +1,13 @@
 ---
-title: Using Bytesize Sessions to improve documentation practices by Jean De Barochez at Payfit
+title: Using Bytesize Sessions to improve documentation practices by Jean de Barochez at Payfit
 layout: post
 lang: en
-author: Jean De Barochez
+author: Jean de Barochez
 categories: usage-report Payfit
 date: 2023-09-19  13:53:25
 ---
 
-This is an article by [Jean De Barochez](https://mastodon.social/@jdebarochez), where he describes his thoughts and practices when it comes to documentation and how he uses Bytesize Architecture Sesssions in the context of documentation.
+This is an article by [Jean de Barochez](https://mastodon.social/@jdebarochez), where he describes his thoughts and practices when it comes to documentation and how he uses Bytesize Architecture Sesssions in the context of documentation.
 
 ---
 
