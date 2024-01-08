@@ -27,7 +27,7 @@ This is where the following practice helped me to change my understanding about 
 
 ### Bytesize Architecture Sessions
 
-I discovered at a virtual-ddd meetup the framework [Bytesize Architecture Sessions](https://bytesizearchitecturesessions.com/) from [Andrea Magnorsky](https://www.roundcrisis.com/). It's a workshop framework to share the same understanding of a system among the participant. Bonus, you get great documentation at the end of a fun session. From there on, I will consider you checked out the website and are familiar with the framework.
+I discovered at a virtual-ddd meetup the framework [Bytesize Architecture Sessions](https://bytesizearchitecturesessions.com/) from [Andrea Magnorsky](https://www.roundcrisis.com/). It's a workshop framework to share the same understanding of a system among the participants. Bonus, you get great documentation at the end of a fun session. From there on, I will consider you checked out the website and are familiar with the framework.
 
 The "Alone together" part is the key part to me of the session. People naturally focus on what they believe is important from their point of view. With diverse people, it gives a rich output of the session. Some may be traumatized by a previous incident, or an underestimated edge case or a detail only them are aware of. Some other may not have enough confidence to share, underestimating their knowledge, ability or fearing the exposure ("wait, you're the senior and you don't know?!"). At first, people would be surprised by their unfinished work. I try to warn ahead to not focus on doing something perfect since we'll redraw later in the consensus. I found interesting to push people who even don't know the system to exercise:
 
