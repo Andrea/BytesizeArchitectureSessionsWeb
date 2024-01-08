@@ -79,4 +79,4 @@ We found in Bytesize Architecture Sessions a powerful way to keep people up to d
 Jean is a software engineer with affinities to software architecture, domain driven design and gardening. 🧑‍🌾
 Learn more about him on [mastodon](https://mastodon.social/@jdebarochez).
 
-If you have used Bytesize Architecture Sessions and feel like sharing your experience reach out to Andrea via [mastodon](https://types.pl/@roundcrisis/) or [LinkedIn](https://www.linkedin.com/in/magnorsky/) so we can make it happen.
+If you have used Bytesize Architecture Sessions and want to share your experience in this website, reach out to Andrea via [mastodon](https://types.pl/@roundcrisis/) or [LinkedIn](https://www.linkedin.com/in/magnorsky/) so we can make it happen.
