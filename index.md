@@ -6,7 +6,7 @@ layout: home
 author: Andrea Magnorsky
 ---
 
-# A session to understand your systems
+> A session to understand your systems
 
 Bytesize Architecture Sessions are a workshop format that helps teams understand the systems they work on. Each session focuses on a small slice of a system. After some sessions your team will become more homogeneous in the understanding of their systems, grow a consistent vocabulary and ultimately build tools to design the future together.
 
