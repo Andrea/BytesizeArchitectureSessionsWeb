@@ -48,5 +48,7 @@ These is where your context is important, access to the tools and capability to 
 
 This question also depends on how your organisation works. The principle to apply here is to focus on access to view and edit for as many of the people creating the diagrams.
 
-If everyone document things in a collaboration website such as WikiPages, Confluence, Notion, etc you probably want to be able to easily see your diagrams there. If you need code to generate to diagrams, ideally it should be in the codebase that the diagrams model.  
+If you actively use a collaboration website such as WikiPage, Confluence, Notion, etc you probably want to be able to easily see your diagrams there. If you need code to generate to diagrams, ideally it should be in the codebase that the diagrams model.  
+
+
 
