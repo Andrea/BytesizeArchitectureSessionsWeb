@@ -16,3 +16,8 @@ author: Andrea Magnorsky
 I started with Bytesized Architecture Sessions around 2017. At the heart of the sessions is the   _Alone Together_ time. A short time when everyone in the session works separately and quietly on the same modelling task. 
 
 After many sessions, people asked me to write about it. I thought it wasn't necessary because it's so simple. Then,  I realised how often I use and recommend the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) with the added advantage that this coordinates a team of people.
+
+
+## What tools do I use to manage the diagrams
+
+Please see [tools]({{site.url}}/tools)
