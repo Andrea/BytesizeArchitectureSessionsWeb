@@ -20,6 +20,7 @@ A  session lasts between 45 and 90 minutes, and has four well defined parts: Ses
 ### [Why should you use Bytesize Architecture Sessions?]({% link why-bytesize.md %})
 ### [Running your first few sessions]({% link running-your-first-sessions.md %})
 ### [Who organises Bytesize Architecture Sessions?]({% link who-runs-it.md %})
+### [Tools during and after the session]({% link tools.md %})
 ### [Frequently Asked Questions]({% link faq.md %})
 
 ## Videos with further context

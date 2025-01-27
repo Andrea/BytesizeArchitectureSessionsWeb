@@ -25,7 +25,8 @@ It's good to have a suggestion of what to model before starting a session. Howev
 
 Before moving on to the next section, check that every attendee understands the goal. 
 
-## Alone Together
+## Alone Together 
+{: #alone-together }
 
 This section should take ten minutes or less.
 
@@ -41,6 +42,7 @@ This modus operandi might be atypical, here are few reasons why it’s useful:
 ![Image of participants with their individual models](/images/alone-together.png)
 
 ## Consensus
+{: #consensus }
 
 The longer part of the session, lasting between twenty to thirty minutes. 
 
