@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Diagramming Tools
 layout: page
 author: Andrea Magnorsky
 ---
