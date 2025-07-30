@@ -114,6 +114,7 @@ Las *Bytesize Sessions* pueden utilizarse para el aprendizaje continuo. También
 
 
 ## Preguntas Frecuentes
+
 ### Cuáles son algunos síntomas de que se necesitan algunas *Bytesize Sessions*
 
 - Está claro que las personas del equipo tienen un modelo mental incorrecto del sistema o que el modelo mental que tienen es incongruente con otras personas del equipo
@@ -122,10 +123,20 @@ Las *Bytesize Sessions* pueden utilizarse para el aprendizaje continuo. También
 - El equipo ha cambiado mucho o está formado en su mayoría por gente nueva
 
 ### Cómo se originó este formato
+
 Empecé con las *Bytesize Architecture Sessions* alrededor de 2017. En el corazón de las sesiones está el tiempo *Alone Together*. Un breve espacio de tiempo en el que todos los participantes de la sesión trabajan por separado y en silencio en la misma tarea de modelado.
 
 Después de muchas sesiones, la gente me pidió que escribiera sobre ello. Pensé que no era necesario porque es muy sencillo. Luego, me di cuenta de lo a menudo que utilizo y recomiendo la Técnica Pomodoro, con la ventaja añadida de que coordina a un equipo de personas.
 
-## Más información pronto
+## Comentarios or preguntas?
 
 Cualquier pregunta o comentario por favor contáctame a través de mastodon: @roundcrisis@types.pl
+
+
+<h3>Noticias</h3>
+<div class="entries-list">
+  {% assign spanish_posts = site.posts | where: "lang", "es" %}
+  {% for post in spanish_posts limit: 5 %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
