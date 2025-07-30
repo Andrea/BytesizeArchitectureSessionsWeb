@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem 'jekyll'
 gem 'kramdown-parser-gfm'
 gem 'webrick'
-gem 'minima'
+gem "minimal-mistakes-jekyll"
 
 
 group :jekyll_plugins do
@@ -12,7 +12,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem 'jekyll-paginate'
-  gem 'jekyll-gist'
   gem "jekyll-include-cache"
 end
 

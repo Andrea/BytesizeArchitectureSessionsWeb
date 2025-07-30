@@ -1,5 +1,7 @@
 ---
-layout: casa
+layout: single
+classes: wide
+permalink: /espannol/
 title: En Español
 author: Emilio Carrión
 ---

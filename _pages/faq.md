@@ -1,8 +1,11 @@
 ---
 title: F.A.Q
-layout: page
+layout: single
+classes: wide
+permalink: /faq/
 author: Andrea Magnorsky
 ---
+
 
 ## What are some symptoms that some Bytesize Sessions are needed?
 

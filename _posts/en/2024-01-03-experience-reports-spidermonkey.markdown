@@ -1,13 +1,21 @@
 ---
-layout: post
+layout: single
 title:  Talk about SpiderMonkey and how they use Bytesize Sessions by Daniel Minor
 date:   2024-01-03 10:53:25
 lang: en
-author: Andrea Magnorsky
-categories: usage-report mozilla
+categories: 
+- case study
+- mozilla
+- video
+tags:
+- case study
+- bytesize architecture sessions
 ---
 
-[SpiderMonkey Byte-Sized Architectures](https://spidermonkey.dev/blog/2023/11/16/spidermonkey-byte-sized-architectures.html) [by Daniel Minor] 
+
+
+[SpiderMonkey Byte-Sized Architectures](https://spidermonkey.dev/blog/2023/11/16/spidermonkey-byte-sized-architectures.html) by Daniel Minor
+
 Daniel gave a talk in Tokyo as part of JSConf/TC39 where he described how the team he is part of uses Bytesize Architecture Sessions.
 
 A screenshot of one of the slides:

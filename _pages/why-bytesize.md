@@ -1,6 +1,8 @@
 ---
 title: Why use it?
-layout: page
+layout: single
+classes: wide
+permalink: /why-bytesize/
 author: Andrea Magnorsky
 ---
 Consider using Bytesize Architecture Sessions if you experience any of the following common difficulties: 

@@ -1,7 +1,9 @@
 ---
 title: Who organises it?
-layout: page
 author: Andrea Magnorsky
+layout: single
+classes: wide
+permalink: /who-runs-it/
 ---
 
 Anyone can propose a Bytesize Session. The sessions should feel like they belong to the team.  

@@ -91,10 +91,13 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    minima (2.5.2)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
+    minimal-mistakes-jekyll (4.27.3)
+      jekyll (>= 3.7, < 5.0)
+      jekyll-feed (~> 0.1)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.3)
     net-http (0.6.0)
       uri
     octokit (4.25.1)
@@ -142,13 +145,12 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
-  jekyll-gist
   jekyll-include-cache
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
-  minima
+  minimal-mistakes-jekyll
   tzinfo (~> 1.2)
   tzinfo-data
   webrick

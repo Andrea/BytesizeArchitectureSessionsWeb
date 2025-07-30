@@ -1,16 +1,22 @@
 ---
 title: Using Bytesize Sessions to improve documentation practices by Jean de Barochez at Payfit
-layout: post
+layout: single
 lang: en
-author: Jean de Barochez
-categories: usage-report Payfit
+author: Jean
+author_profile: true
+categories: 
+- case study
+- Payfit
+- video
+tags:
+- case study
+- bytesize architecture sessions
 date: 2023-09-19  13:53:25
 ---
 
 This is an article by [Jean de Barochez](https://mastodon.social/@jdebarochez), where he describes his thoughts and practices when it comes to documentation and how he uses Bytesize Architecture Sesssions in the context of documentation.
 
 ---
-
 
 Documentation is an important part of software development, with a lot of opportunity for improvements and I recently discovered a workshop format to solve my pain points.
 
@@ -66,5 +72,6 @@ Documentation is finally something fun to do, with a collaborative approach like
 
 Jean is a software engineer with affinities to software architecture, domain driven design and gardening. 🧑‍🌾
 Learn more about him on [mastodon](https://mastodon.social/@jdebarochez).
+
 
 If you have used Bytesize Architecture Sessions and feel like sharing your experience in this website, reach out to Andrea via [mastodon](https://types.pl/@roundcrisis/) or [LinkedIn](https://www.linkedin.com/in/magnorsky/) so we can make it happen.

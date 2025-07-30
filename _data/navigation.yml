@@ -1,0 +1,16 @@
+  main:
+    - title: "Why Bytesize"
+      url: /why-bytesize/
+    - title: "Running Your First Sessions"
+      url: /running-your-first-sessions/
+    - title: "Who Runs It"
+      url: /who-runs-it/
+    - title: "Tools"
+      url: /tools/
+    - title: "About"
+      url: /about/
+    - title: "Español"
+      url: /espannol/
+    - title: "Workshops"      
+      url: https://bytesizearchitecturesessions.com/
+      target: _blank

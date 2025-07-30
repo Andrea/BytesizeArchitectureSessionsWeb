@@ -1,6 +1,8 @@
 ---
 title: Diagramming Tools
-layout: page
+layout: single
+classes: wide
+permalink: /tools/
 author: Andrea Magnorsky
 ---
 
@@ -14,11 +16,13 @@ During a session use any collaborative board all the participants of a sessions 
 
 ### In person
 
+{{ site.images }}
+
 ![whiteboard]({{site.url}}/images/whiteboard.png)
 
 
-* Use paper and markers for [Alone Together]({{site.url/running-your-first-session.html}}) 
-* A whiteboard is really nice for [Consensus]({{site.url/running-your-first-session.html}})  
+* Use paper and markers for [Alone Together]({{site.url}}/running-your-first-sessions) 
+* A whiteboard is really nice for [Consensus]({{site.url}}/running-your-first-sessions)  
 * Sticky notes to add comments about assumptions and other areas you might wa to come back to
 
 > Top tip 

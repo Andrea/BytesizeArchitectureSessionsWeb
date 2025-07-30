@@ -1,0 +1,9 @@
+# Multiple authors
+Jean:
+  name: "Jean de Barochez"
+  bio: "Software engineering, architecture, collaborative practices and design (#DDD)"
+  avatar: "/images/avatars/jdb.jpg"
+  links:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@jdebarochez"

@@ -1,6 +1,8 @@
 ---
 title: How to run your first sessions
-layout: page
+layout: single
+classes: wide
+permalink: /running-your-first-sessions/
 author: Andrea Magnorsky
 ---
 ![Overview](http://bytesizearchitecturesessions.com/images/bytesize-overview.png)

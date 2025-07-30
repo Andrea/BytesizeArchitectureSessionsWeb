@@ -1,15 +1,25 @@
 ---
-layout: post
+layout: single
+classes: wide
 title:  Experience report of Using Bytesize Architecture Sessions by Jean de Barochez at Payfit
 date:   2023-09-28 13:53:25
 lang: en
-author: Jean de Barochez
-categories: usage-report Payfit
+author: Jean
+categories: 
+- case study
+- Payfit
+- video
+tags:
+- case study
+- bytesize architecture sessions
 ---
 
 This is an article by Jean de Barochez, where he describes how his team uses **Bytesize Architecture Sessions** at [PayFit](https://payfit.com/).
 
 ---
+
+
+
 
 ## Bytesize Architecture Sessions for teams at PayFit
 
