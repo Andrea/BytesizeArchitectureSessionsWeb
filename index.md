@@ -11,7 +11,7 @@ feature_row:
     btn_class: "btn--primary"
   - title: "How to run your it?"    
     url: "/running-your-first-sessions/"
-    btn_label: "How"
+    btn_label: "How?"
     btn_class: "btn--primary"
   - title: "Who organises it?"
     url: "/who-runs-it/"

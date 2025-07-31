@@ -1,2 +1,6 @@
-# The info website for Bytesize Architecture Sessions
+# Bytesize Architecture Sessions
+
+This page mostly hosts the information site for Bytesize Architecture Sessions.
+
+
 
