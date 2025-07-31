@@ -1,16 +1,18 @@
   main:
-    - title: "Why Bytesize"
+    - title: "❔ Why Bytesize "
       url: /why-bytesize/
-    - title: "Running Your First Sessions"
+    - title: "🤔 How to run?"
       url: /running-your-first-sessions/
-    - title: "Who Runs It"
+    - title: " 🧑‍💼 Who should run it?"
       url: /who-runs-it/
-    - title: "Tools"
+    - title: "🛠️ Tools"
       url: /tools/
-    - title: "About"
-      url: /about/
-    - title: "Español"
-      url: /espannol/
-    - title: "Workshops"      
-      url: https://bytesizearchitecturesessions.com/
+    - title: "📰 Recent Posts"
+      url: /news/
+    - title: "🙋 FAQ"
+      url: /faq/
+    - title: "✨💡 Workshops 🌟 ↗"      
+      url: https://modelbridgesoftware.com
       target: _blank
+    - title: "🇪🇸 En español"
+      url: /espannol/      
