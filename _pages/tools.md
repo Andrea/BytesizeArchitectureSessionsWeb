@@ -22,11 +22,12 @@ During a session use any collaborative board all the participants of a sessions 
 
 
 * Use paper and markers for [Alone Together]({{site.url}}/running-your-first-sessions) 
-* A whiteboard is really nice for [Consensus]({{site.url}}/running-your-first-sessions)  
-* Sticky notes to add comments about assumptions and other areas you might wa to come back to
-
+* A whiteboard (don't forget working whiteboard markers for everyone)is extremely practical for [Convergence]({{site.url}}/running-your-first-sessions)  
+* Sticky notes to add comments about assumptions and other areas you might wa to come back to.
+* Write down questions that you have discussed for over 2 minutes and have not answered
 > Top tip 
 > Take pictures of final result.
+
 
 
 ### Online 
@@ -37,7 +38,7 @@ A popular online board at the moment is Miro. If you are working on Miro, having
 ![Miro board]({{site.url}}/images/miro-bas.png)
 
 * For alone together give each person a frame
-* For consensus zoom into the frame with title Consensus board. I generally update the title of the Frame to: Together - <the goal of the session>.
+* For convergence zoom into the frame with title Convergence board. I generally update the title of the Frame to: Together - <the goal of the session>.
 * Do the retro in a nearby area.
 
 This is just a suggestion, the best tool is to use what that participants are already familiar with, at least at the start.

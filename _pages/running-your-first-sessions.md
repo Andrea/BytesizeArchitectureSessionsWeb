@@ -43,12 +43,12 @@ This modus operandi might be atypical, here are few reasons why it’s useful:
 
 ![Image of participants with their individual models](/images/alone-together.png)
 
-## Consensus
-{: #consensus }
+## Convergence
+{: #convergence }
 
 The longer part of the session, lasting between twenty to thirty minutes. 
 
-__Consensus__ is about coming together to create one diagram from scratch with the combined knowledge of the team. 
+__Convergence__ is about coming together to create one diagram from scratch with the combined knowledge of the team. 
 
 It's normal for things to get a little hectic. In order to achieve the goal, designate a scribe that can rotate every meeting. The scribe will be drawing the diagram from scratch with everyone’s help. 
 

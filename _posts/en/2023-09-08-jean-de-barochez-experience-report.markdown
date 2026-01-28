@@ -51,7 +51,7 @@ During 8 minutes, each participant duplicated an empty frame to draw each respec
 
 We all had something to share, more or less detailed, depending on the degree of familiarity and ability to model quickly, but all were a working solution. One by one, we presented our diagrams and asked questions about meaning of some dependencies.
 
-### Consensus
+### Consensus (this section is now called Convergence in BAS - January 2026)
 
 During 35 minutes, we discussed how we would implement it. In this session, the major part of the feature implementation quickly reached consensus. We all had similar solutions, while discarding alternatives approach. In our context, an event driven approach would be best to decouple some components, but it would increase the error management. On top of that, our user interface is not ready for showing a progress bar with the number of payslips being generated. Some alternatives are ideal, but unreachable in a short term.
 
@@ -71,7 +71,7 @@ We took the time to document properly on the fly, discussing C4 component labels
 
 ### Session summary
 
-The summary in our case was quick, having a quickly reached consensus. We listed the key steps to perform. What was amazing, is that at this point, we had a clear understanding of the implementation, a documentation diagram to support it and a plan everyone agreed on.
+The summary in our case was quick, having a quickly reached convergence. We listed the key steps to perform. What was amazing, is that at this point, we had a clear understanding of the implementation, a documentation diagram to support it and a plan everyone agreed on.
 
 ### Mobbing
 

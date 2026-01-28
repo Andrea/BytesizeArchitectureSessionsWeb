@@ -12,7 +12,7 @@ Muchas gracias a [Emilio Carrión](https://www.linkedin.com/in/emcarrio/) por tr
 
 Las *Bytesize Architecture Sessions* son un formato de taller que ayuda a los equipos a comprender los sistemas en los que trabajan. Cada sesión se centra en una pequeña porción de un sistema. Tras algunas sesiones, tu equipo será más homogéneo en la comprensión de sus sistemas, desarrollará un vocabulario consistente y, en última instancia, construirá herramientas para diseñar el futuro juntos.
 
-Una sesión dura entre 45 y 90 minutos, y consta de cuatro partes bien definidas: Objetivo de la sesión, *Alone Together*, Consenso y Resumen. Puedes modelar tus sistemas utilizando distintas herramientas. Sugiero empezar con Diagramas C4.
+Una sesión dura entre 45 y 90 minutos, y consta de cuatro partes bien definidas: Objetivo de la sesión, *Alone Together*, Convergencia y Resumen. Puedes modelar tus sistemas utilizando distintas herramientas. Sugiero empezar con Diagramas C4.
 
 <figure>
     <img src="/images/working-together.jpg"
@@ -91,10 +91,10 @@ Este modus operandi puede resultar atípico, pero he aquí algunas razones por l
 
 ![Image of participants with their individual models](/images/alone-together.png)
 
-#### Consenso
+#### Convergencia
 La parte más larga de la sesión, que dura entre veinte y treinta minutos.
 
-El **consenso** consiste en reunirse para crear un diagrama a partir de cero con los conocimientos combinados del equipo.
+La **convergencia** consiste en reunirse para crear un diagrama a partir de cero con los conocimientos combinados del equipo.
 
 Es normal que las cosas se pongan un poco agitadas. Para lograr el objetivo, nombra a un escriba que puede rotar en cada reunión. El escriba dibujará el diagrama desde cero con la ayuda de todos.
 

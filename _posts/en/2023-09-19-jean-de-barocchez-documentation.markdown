@@ -35,14 +35,14 @@ This is where the following practice helped me to change my understanding about 
 
 I discovered at a virtual-ddd meetup the framework [Bytesize Architecture Sessions](https://bytesizearchitecturesessions.com/) from [Andrea Magnorsky](https://www.roundcrisis.com/). It's a workshop framework to share the same understanding of a system among the participants. Bonus, you get great documentation at the end of a fun session. From there on, I will consider you checked out the website and are familiar with the framework.
 
-The "Alone together" part is the key part to me of the session. People naturally focus on what they believe is important from their point of view. With diverse people, it gives a rich output of the session. Some may be traumatized by a previous incident, or an underestimated edge case or a detail only them are aware of. Some other may not have enough confidence to share, underestimating their knowledge, ability or fearing the exposure ("wait, you're the senior and you don't know?!"). At first, people would be surprised by their unfinished work. I try to warn ahead to not focus on doing something perfect since we'll redraw later in the consensus. I found interesting to push people who even don't know the system to exercise:
+The "Alone together" part is the key part to me of the session. People naturally focus on what they believe is important from their point of view. With diverse people, it gives a rich output of the session. Some may be traumatized by a previous incident, or an underestimated edge case or a detail only them are aware of. Some other may not have enough confidence to share, underestimating their knowledge, ability or fearing the exposure ("wait, you're the senior and you don't know?!"). At first, people would be surprised by their unfinished work. I try to warn ahead to not focus on doing something perfect since we'll redraw later in the convergence. I found interesting to push people who even don't know the system to exercise:
 
 - it makes them think about the problem, and adopt it
 - they may challenge the solution with out-of-the-box thinking
 - make mistakes and learn edge cases
 - ...
 
-The consensus part is the second most important to me. So much happens in this part. Questions are raised, curiosity is answered, we can even review the design altogether. "This should not be this way. Why not like this?", "What happens when ...?", "Are we still doing it like this?!", "Oh this is deprecated and we forgot to clean?", etc.
+The convergence part is the second most important to me. So much happens in this part. Questions are raised, curiosity is answered, we can even review the design altogether. "This should not be this way. Why not like this?", "What happens when ...?", "Are we still doing it like this?!", "Oh this is deprecated and we forgot to clean?", etc.
 
 When using a live system as goal, it's great to share understanding of the system. When setting the goal for a change, we design and document first the solution, then head for implementation, easily going back and forth between both. We reach a living documentation.
 
@@ -56,7 +56,7 @@ This is where it makes more sense as the iterative approach helps to continuousl
 
 #### With a peer
 
-I discovered a new framework and I wanted to share it with many more people. I was having a session with someone with a different experience on the system. We both had one bit of an undocumented legacy process, I proposed to spend some time alone to draw our knowledge and then we searched for consensus, noting down questions, uncharted areas and connecting dots.
+I discovered a new framework and I wanted to share it with many more people. I was having a session with someone with a different experience on the system. We both had one bit of an undocumented legacy process, I proposed to spend some time alone to draw our knowledge and then we searched for convergence, noting down questions, uncharted areas and connecting dots.
 
 #### Cross team interactions
 
